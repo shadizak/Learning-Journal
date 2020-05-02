@@ -1,4 +1,4 @@
-# Growth Mindset 
+# *Growth Mindset* 
 
 This is summary of Markdown:
  
