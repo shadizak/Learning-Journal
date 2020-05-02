@@ -1,13 +1,13 @@
 # JavaScript
 ## Expressions and Operators:
 
-JavaScript has the following types of operators.
-Assignment operators
-Comparison operators
-Arithmetic operators
-Logical operators
-String operators
-Relational operators
+1. JavaScript has the following types of operators.
+2. Assignment operators
+3. Comparison operators
+4. Arithmetic operators
+5. Logical operators
+6. String operators
+7. Relational operators
 
 
 ## JavaScript Function:
