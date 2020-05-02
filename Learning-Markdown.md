@@ -10,6 +10,8 @@ I am keep myself in a growth mindset Via:
 2. I will get my great achievement after working hard
 3. Try and then try
 
+![Image description](https://miro.medium.com/max/6000/1*6tmkrsxMAYNQST-YjAAAlA.jpeg)
+
 ## *For More Information* 
 
 Use the link [Growth Mindset](https://mindsetscholarsnetwork.org/learning-mindsets/growth-mindset/).
@@ -19,3 +21,5 @@ Use the link [Growth Mindset](https://mindsetscholarsnetwork.org/learning-mindse
 ```bash
 git add .
 ```
+
+
