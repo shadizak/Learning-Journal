@@ -20,18 +20,14 @@ Checks if the value of two operands are equal or not, if the values are not equa
 3. > (Greater than)
 Checks if the value of the left operand is greater than the value of the right operand, if yes, then the condition becomes true.
 
-
 4. < (Less than)
 Checks if the value of the left operand is less than the value of the right operand, if yes, then the condition becomes true.
-
 
 5. >= (Greater than or Equal to)
 Checks if the value of the left operand is greater than or equal to the value of the right operand, if yes, then the condition becomes true.
 
-
 6. <= (Less than or Equal to)
 Checks if the value of the left operand is less than or equal to the value of the right operand, if yes, then the condition becomes true.
-
 
 7. ===	equal value and equal Data type
 
@@ -40,7 +36,24 @@ Checks if the value of the left operand is less than or equal to the value of th
 # What is an Loops in JS?
 ## JavaScript While Loop
 Loops can execute a block of code as long as a specified condition is true.
+
 -> Syntax:
 while (condition) {
   // code block to be executed
 }
+
+## JavaScript For Loop
+Loops can execute a block of code a number of times.
+
+The For Loop
+
+-> syntax:
+
+for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}
+
+Statement 1 is executed (one time) before the execution of the code block.
+Statement 2 defines the condition for executing the code block.
+Statement 3 is executed (every time) after the code block has been executed.
+
